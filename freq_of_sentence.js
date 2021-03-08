@@ -2,12 +2,12 @@
 
 // test case -1:
 
-// input : "work like you do not need money, love like you have never been hurt and dance like no one is watching"
+// input : "work like you do not need money,love like you have never been hurt and dance like no one is watching"
 // output : the word is like and frequency is 3
 
 // test-case -2
 
-// input : "Bitter had a butter ,which was bitter and he made the bitter butter better and the better butter was more bitter"
+// input : "Bitter had a butter,which was bitter and he made the bitter butter better and the better butter was more bitter"
 // output : the word is bitter and frequency is 4
 function freq_sen(str){
     str = str.replace(','," ");
