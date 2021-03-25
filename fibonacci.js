@@ -1,3 +1,5 @@
+// generate fibonacci numbers
+
 function fibonacci_num(num, n1, n2){
     let i, n3;
     console.log(n1);
